@@ -83,6 +83,7 @@ Credit_Card_Financial_Dashboard/
 
 ## 📷 Dashboard Preview
 <img width="1401" height="812" alt="Screenshot 2026-04-23 111948" src="https://github.com/user-attachments/assets/524a479a-05d3-4c94-a952-51b24c7dffc9" />
+---
 <img width="1436" height="835" alt="Screenshot 2026-04-23 111929" src="https://github.com/user-attachments/assets/08caba99-a7e0-4a4c-a54b-f706dc4c2769" />
 
 
